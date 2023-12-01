@@ -2,7 +2,6 @@ Div,Date,Time,HomeTeam,AwayTeam
 E0,11/8/2023,20:00,Burnley,Man City
 E0,12/8/2023,12:30,Arsenal,Nott'm Forest
 E0,12/8/2023,15:00,Bournemouth,West Ham
-E0,12/8/2023,15:00,Brighton,Luton
 E0,12/8/2023,15:00,Everton,Fulham
 E0,12/8/2023,15:00,Sheffield United,Crystal Palace
 E0,12/8/2023,17:30,Newcastle,Aston Villa
@@ -18,7 +17,6 @@ E0,19/08/2023,20:00,Man City,Newcastle
 E0,20/08/2023,14:00,Aston Villa,Everton
 E0,20/08/2023,16:30,West Ham,Chelsea
 E0,21/08/2023,20:00,Crystal Palace,Arsenal
-E0,25/08/2023,20:00,Chelsea,Luton
 E0,26/08/2023,12:30,Bournemouth,Tottenham
 E0,26/08/2023,15:00,Arsenal,Fulham
 E0,26/08/2023,15:00,Brentford,Crystal Palace
@@ -28,7 +26,6 @@ E0,26/08/2023,17:30,Brighton,West Ham
 E0,27/08/2023,14:00,Burnley,Aston Villa
 E0,27/08/2023,14:00,Sheffield United,Man City
 E0,27/08/2023,16:30,Newcastle,Liverpool
-E0,1/9/2023,20:00,Luton,West Ham
 E0,2/9/2023,12:30,Sheffield United,Everton
 E0,2/9/2023,15:00,Brentford,Bournemouth
 E0,2/9/2023,15:00,Burnley,Tottenham
@@ -40,7 +37,6 @@ E0,3/9/2023,14:00,Liverpool,Aston Villa
 E0,3/9/2023,16:30,Arsenal,Man United
 E0,16/09/2023,12:30,Wolves,Liverpool
 E0,16/09/2023,15:00,Aston Villa,Crystal Palace
-E0,16/09/2023,15:00,Fulham,Luton
 E0,16/09/2023,15:00,Man United,Brighton
 E0,16/09/2023,15:00,Tottenham,Sheffield United
 E0,16/09/2023,15:00,West Ham,Man City
@@ -49,7 +45,6 @@ E0,17/09/2023,14:00,Bournemouth,Chelsea
 E0,17/09/2023,16:30,Everton,Arsenal
 E0,18/09/2023,19:45,Nott'm Forest,Burnley
 E0,23/09/2023,15:00,Crystal Palace,Fulham
-E0,23/09/2023,15:00,Luton,Wolves
 E0,23/09/2023,15:00,Man City,Nott'm Forest
 E0,23/09/2023,17:30,Brentford,Everton
 E0,23/09/2023,20:00,Burnley,Man United
@@ -60,7 +55,6 @@ E0,24/09/2023,14:00,Liverpool,West Ham
 E0,24/09/2023,16:30,Sheffield United,Newcastle
 E0,30/09/2023,12:30,Aston Villa,Brighton
 E0,30/09/2023,15:00,Bournemouth,Arsenal
-E0,30/09/2023,15:00,Everton,Luton
 E0,30/09/2023,15:00,Man United,Crystal Palace
 E0,30/09/2023,15:00,Newcastle,Burnley
 E0,30/09/2023,15:00,West Ham,Sheffield United
@@ -68,8 +62,6 @@ E0,30/09/2023,15:00,Wolves,Man City
 E0,30/09/2023,17:30,Tottenham,Liverpool
 E0,1/10/2023,14:00,Nott'm Forest,Brentford
 E0,2/10/2023,20:00,Fulham,Chelsea
-E0,3/10/2023,19:30,Luton,Burnley
-E0,7/10/2023,12:30,Luton,Tottenham
 E0,7/10/2023,15:00,Burnley,Chelsea
 E0,7/10/2023,15:00,Everton,Bournemouth
 E0,7/10/2023,15:00,Fulham,Sheffield United
@@ -84,7 +76,6 @@ E0,21/10/2023,15:00,Bournemouth,Wolves
 E0,21/10/2023,15:00,Brentford,Burnley
 E0,21/10/2023,15:00,Man City,Brighton
 E0,21/10/2023,15:00,Newcastle,Crystal Palace
-E0,21/10/2023,15:00,Nott'm Forest,Luton
 E0,21/10/2023,17:30,Chelsea,Arsenal
 E0,21/10/2023,20:00,Sheffield United,Man United
 E0,22/10/2023,16:30,Aston Villa,West Ham
@@ -95,7 +86,6 @@ E0,28/10/2023,15:00,Arsenal,Sheffield United
 E0,28/10/2023,15:00,Bournemouth,Burnley
 E0,28/10/2023,17:30,Wolves,Newcastle
 E0,29/10/2023,13:00,West Ham,Everton
-E0,29/10/2023,14:00,Aston Villa,Luton
 E0,29/10/2023,14:00,Brighton,Fulham
 E0,29/10/2023,14:00,Liverpool,Nott'm Forest
 E0,29/10/2023,15:30,Man United,Man City
@@ -107,12 +97,10 @@ E0,4/11/2023,15:00,Man City,Bournemouth
 E0,4/11/2023,15:00,Sheffield United,Wolves
 E0,4/11/2023,17:30,Newcastle,Arsenal
 E0,5/11/2023,14:00,Nott'm Forest,Aston Villa
-E0,5/11/2023,16:30,Luton,Liverpool
 E0,6/11/2023,20:00,Tottenham,Chelsea
 E0,11/11/2023,12:30,Wolves,Tottenham
 E0,11/11/2023,15:00,Arsenal,Burnley
 E0,11/11/2023,15:00,Crystal Palace,Everton
-E0,11/11/2023,15:00,Man United,Luton
 E0,11/11/2023,17:30,Bournemouth,Newcastle
 E0,12/11/2023,14:00,Aston Villa,Fulham
 E0,12/11/2023,14:00,Brighton,Sheffield United
@@ -121,7 +109,6 @@ E0,12/11/2023,14:00,West Ham,Nott'm Forest
 E0,12/11/2023,16:30,Chelsea,Man City
 E0,25/11/2023,12:30,Man City,Liverpool
 E0,25/11/2023,15:00,Burnley,West Ham
-E0,25/11/2023,15:00,Luton,Crystal Palace
 E0,25/11/2023,15:00,Newcastle,Chelsea
 E0,25/11/2023,15:00,Nott'm Forest,Brighton
 E0,25/11/2023,15:00,Sheffield United,Bournemouth
