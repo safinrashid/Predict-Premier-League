@@ -1,118 +1,118 @@
-HomeTeam,AwayTeam,Win Chance
-Burnley,Man City,65.65%
-Arsenal,Nott'm Forest,88.26%
-Bournemouth,West Ham,34.45%
-Everton,Fulham,42.36%
-Sheffield United,Crystal Palace,35.27%
-Newcastle,Aston Villa,37.39%
-Brentford,Tottenham,24.35%
-Chelsea,Liverpool,64.18%
-Man United,Wolves,73.91%
-Nott'm Forest,Sheffield United,52.08%
-Fulham,Brentford,57.21%
-Liverpool,Bournemouth,8.65%
-Wolves,Brighton,18.02%
-Tottenham,Man United,84.01%
-Man City,Newcastle,18.02%
-Aston Villa,Everton,50.75%
-West Ham,Chelsea,81.60%
-Crystal Palace,Arsenal,95.00%
-Bournemouth,Tottenham,-1.12%
-Arsenal,Fulham,76.00%
-Brentford,Crystal Palace,58.12%
-Everton,Wolves,75.39%
-Man United,Nott'm Forest,40.21%
-Brighton,West Ham,58.10%
-Burnley,Aston Villa,22.35%
-Sheffield United,Man City,95.00%
-Newcastle,Liverpool,65.29%
-Sheffield United,Everton,89.38%
-Brentford,Bournemouth,92.85%
-Burnley,Tottenham,24.65%
-Chelsea,Nott'm Forest,27.46%
-Man City,Fulham,8.02%
-Brighton,Newcastle,61.44%
-Crystal Palace,Wolves,95.00%
-Liverpool,Aston Villa,78.64%
-Arsenal,Man United,89.84%
-Wolves,Liverpool,18.02%
-Aston Villa,Crystal Palace,33.52%
-Man United,Brighton,18.02%
-Tottenham,Sheffield United,66.12%
-West Ham,Man City,89.78%
-Newcastle,Brentford,81.00%
-Bournemouth,Chelsea,93.19%
-Everton,Arsenal,19.10%
-Nott'm Forest,Burnley,71.25%
-Crystal Palace,Fulham,75.15%
-Man City,Nott'm Forest,29.87%
-Brentford,Everton,60.61%
-Burnley,Man United,42.73%
-Arsenal,Tottenham,22.27%
-Brighton,Bournemouth,50.47%
-Chelsea,Aston Villa,41.17%
-Liverpool,West Ham,4.10%
-Sheffield United,Newcastle,93.52%
-Aston Villa,Brighton,71.60%
-Bournemouth,Arsenal,31.06%
-Man United,Crystal Palace,26.65%
-Newcastle,Burnley,76.22%
-West Ham,Sheffield United,21.07%
-Wolves,Man City,18.02%
-Tottenham,Liverpool,95.00%
-Nott'm Forest,Brentford,75.94%
-Fulham,Chelsea,78.72%
-Burnley,Chelsea,92.89%
-Everton,Bournemouth,33.50%
-Fulham,Sheffield United,52.64%
-Man United,Brentford,18.02%
-Crystal Palace,Nott'm Forest,67.75%
-Brighton,Liverpool,49.14%
-West Ham,Newcastle,95.00%
-Wolves,Aston Villa,18.02%
-Arsenal,Man City,67.81%
-Liverpool,Everton,17.70%
-Bournemouth,Wolves,95.00%
-Brentford,Burnley,86.48%
-Man City,Brighton,76.68%
-Newcastle,Crystal Palace,68.41%
-Chelsea,Arsenal,5.75%
-Sheffield United,Man United,94.61%
-Aston Villa,West Ham,25.35%
-Tottenham,Fulham,70.02%
-Crystal Palace,Tottenham,59.23%
-Chelsea,Brentford,18.02%
-Arsenal,Sheffield United,81.53%
-Bournemouth,Burnley,78.55%
-Wolves,Newcastle,18.02%
-West Ham,Everton,93.79%
-Brighton,Fulham,28.28%
-Liverpool,Nott'm Forest,57.68%
-Man United,Man City,18.02%
-Fulham,Man United,95.00%
-Brentford,West Ham,79.46%
-Burnley,Crystal Palace,10.67%
-Everton,Brighton,63.55%
-Man City,Bournemouth,33.80%
-Sheffield United,Wolves,95.00%
-Newcastle,Arsenal,15.03%
-Nott'm Forest,Aston Villa,61.38%
-Tottenham,Chelsea,95.00%
-Wolves,Tottenham,66.61%
-Arsenal,Burnley,78.99%
-Crystal Palace,Everton,82.32%
-Bournemouth,Newcastle,79.39%
-Aston Villa,Fulham,50.06%
-Brighton,Sheffield United,4.55%
-Liverpool,Brentford,87.01%
-West Ham,Nott'm Forest,95.00%
-Chelsea,Man City,52.33%
-Man City,Liverpool,80.91%
-Burnley,West Ham,12.33%
-Newcastle,Chelsea,18.02%
-Nott'm Forest,Brighton,79.35%
-Sheffield United,Bournemouth,90.65%
-Brentford,Arsenal,15.50%
-Tottenham,Aston Villa,90.14%
-Everton,Man United,73.41%
-Fulham,Wolves,95.00%
+HomeTeam,AwayTeam,Win Chance,GPT Win Percentage,FTHG,FTAG
+Burnley,Man City,65.65%,"65.65%,",1,2
+Arsenal,Nott'm Forest,88.26%,88.26%,2,1
+Bournemouth,West Ham,34.45%,"34%,",1,1
+Everton,Fulham,42.36%,"42.36%,",2,1
+Sheffield United,Crystal Palace,35.27%,"45%,",2,1
+Newcastle,Aston Villa,37.39%,"95%,",2,1
+Brentford,Tottenham,24.35%,"24.35%,",1,2
+Chelsea,Liverpool,64.18%,"64.18%,",2,1
+Man United,Wolves,73.91%,"73.91%,",2,1
+Nott'm Forest,Sheffield United,52.08%,"52.08%,",1,1
+Fulham,Brentford,57.21%,"57.21%,",2,1
+Liverpool,Bournemouth,8.65%,"90%,",2,1
+Wolves,Brighton,18.02%,"18.02%,",1,1
+Tottenham,Man United,84.01%,84.01%,2,1
+Man City,Newcastle,18.02%,"18%,",1,1
+Aston Villa,Everton,50.75%,"50.75%,",1,1
+West Ham,Chelsea,81.60%,"81.60%,",2,1
+Crystal Palace,Arsenal,95.00%,"95%,",2,1
+Bournemouth,Tottenham,-1.12%,"1.12%,",0,2
+Arsenal,Fulham,76.00%,"76%,",2,0
+Brentford,Crystal Palace,58.12%,58%,2,1
+Everton,Wolves,75.39%,"75%,",2,1
+Man United,Nott'm Forest,40.21%,"40.21%,",1,0
+Brighton,West Ham,58.10%,"58%,",2,1
+Burnley,Aston Villa,22.35%,"22.35%,",1,1
+Sheffield United,Man City,95.00%,"5%,",1,3
+Newcastle,Liverpool,65.29%,"65.29%,",1,1
+Sheffield United,Everton,89.38%,90%,2,1
+Brentford,Bournemouth,92.85%,92.85%,2,1
+Burnley,Tottenham,24.65%,"24.65%,",1,2
+Chelsea,Nott'm Forest,27.46%,"28%,",2,0
+Man City,Fulham,8.02%,"90%,",2,1
+Brighton,Newcastle,61.44%,"61.44%,",2,1
+Crystal Palace,Wolves,95.00%,"95%,",2,1
+Liverpool,Aston Villa,78.64%,"78.64%,",3,1
+Arsenal,Man United,89.84%,"90%,",2,1
+Wolves,Liverpool,18.02%,18.02%,1,3
+Aston Villa,Crystal Palace,33.52%,"33.52%,",1,1
+Man United,Brighton,18.02%,"18%,",1,1
+Tottenham,Sheffield United,66.12%,"66.12%,",2,1
+West Ham,Man City,89.78%,"90%,",2,1
+Newcastle,Brentford,81.00%,"81%,",2,1
+Bournemouth,Chelsea,93.19%,"90%,",2,1
+Everton,Arsenal,19.10%,"19.10%,",1,2
+Nott'm Forest,Burnley,71.25%,71.25%,2,1
+Crystal Palace,Fulham,75.15%,"75.15%,",2,1
+Man City,Nott'm Forest,29.87%,"70%,",3,0
+Brentford,Everton,60.61%,"60.61%,",2,1
+Burnley,Man United,42.73%,"43%,",1,1
+Arsenal,Tottenham,22.27%,"22.27%,",1,1
+Brighton,Bournemouth,50.47%,"50.47%,",1,1
+Chelsea,Aston Villa,41.17%,41.17%,2,1
+Liverpool,West Ham,4.10%,"90%,",2,1
+Sheffield United,Newcastle,93.52%,"90%,",2,1
+Aston Villa,Brighton,71.60%,"71.60%,",2,1
+Bournemouth,Arsenal,31.06%,"31.06%,",1,2
+Man United,Crystal Palace,26.65%,"27%,",2,1
+Newcastle,Burnley,76.22%,"90%,",2,1
+West Ham,Sheffield United,21.07%,"21.07%,",1,1
+Wolves,Man City,18.02%,"18.02%,",0,3
+Tottenham,Liverpool,95.00%,"95%,",2,1
+Nott'm Forest,Brentford,75.94%,"75.94%,",2,1
+Fulham,Chelsea,78.72%,78.72%,1,1
+Burnley,Chelsea,92.89%,"90%,",2,1
+Everton,Bournemouth,33.50%,"33.50%,",1,1
+Fulham,Sheffield United,52.64%,"52.64%,",2,1
+Man United,Brentford,18.02%,"18.02%,",1,1
+Crystal Palace,Nott'm Forest,67.75%,"67.75%,",2,1
+Brighton,Liverpool,49.14%,"49.14%,",1,1
+West Ham,Newcastle,95.00%,90%,2,1
+Wolves,Aston Villa,18.02%,"18.02%,",1,1
+Arsenal,Man City,67.81%,"68%,",2,1
+Liverpool,Everton,17.70%,"17.70%,",1,1
+Bournemouth,Wolves,95.00%,"95%,",2,1
+Brentford,Burnley,86.48%,"86.48%,",2,1
+Man City,Brighton,76.68%,"77%,",2,0
+Newcastle,Crystal Palace,68.41%,"68.41%,",2,1
+Chelsea,Arsenal,5.75%,"5.75%,",,
+Sheffield United,Man United,94.61%,90%,2,1
+Aston Villa,West Ham,25.35%,90%,2,1
+Tottenham,Fulham,70.02%,70.02%,2,1
+Crystal Palace,Tottenham,59.23%,"59.23%,",1,0
+Chelsea,Brentford,18.02%,82.98%,3,0
+Arsenal,Sheffield United,81.53%,"81.53%,",2,0
+Bournemouth,Burnley,78.55%,78.55%,2,1
+Wolves,Newcastle,18.02%,"18%,",1,1
+West Ham,Everton,93.79%,"93.79%,",2,1
+Brighton,Fulham,28.28%,"28.28%,",1,1
+Liverpool,Nott'm Forest,57.68%,57.68%,2,1
+Man United,Man City,18.02%,"18.02%,",1,2
+Fulham,Man United,95.00%,"95%,",2,1
+Brentford,West Ham,79.46%,"79.46%,",1,0
+Burnley,Crystal Palace,10.67%,"10.67%,",1,2
+Everton,Brighton,63.55%,"63.55%,",2,0
+Man City,Bournemouth,33.80%,90%.,2,1
+Sheffield United,Wolves,95.00%,"90%,",2,1
+Newcastle,Arsenal,15.03%,"15%,",1,3
+Nott'm Forest,Aston Villa,61.38%,61.38%,2,1
+Tottenham,Chelsea,95.00%,"90%,",2,1
+Wolves,Tottenham,66.61%,"66.61%,",2,1
+Arsenal,Burnley,78.99%,"79%,",2,0
+Crystal Palace,Everton,82.32%,"82.32%,",2,1
+Bournemouth,Newcastle,79.39%,"79.39%,",2,1
+Aston Villa,Fulham,50.06%,50.06%,2,1
+Brighton,Sheffield United,4.55%,4.55%,1,1
+Liverpool,Brentford,87.01%,87.01%,2,1
+West Ham,Nott'm Forest,95.00%,"95%,",2,1
+Chelsea,Man City,52.33%,"52.33%,",2,1
+Man City,Liverpool,80.91%,"80.91%,",2,1
+Burnley,West Ham,12.33%,"12.33%,",0,1
+Newcastle,Chelsea,18.02%,"18.02%,",0,2
+Nott'm Forest,Brighton,79.35%,79.35%,2,1
+Sheffield United,Bournemouth,90.65%,"90%,",2,1
+Brentford,Arsenal,15.50%,"15.50%,",0,2
+Tottenham,Aston Villa,90.14%,"90%,",2,1
+Everton,Man United,73.41%,73.41%,2,1
+Fulham,Wolves,95.00%,90%,2,1
